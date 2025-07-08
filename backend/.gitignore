@@ -1,0 +1,9 @@
+# Ignorar modelo pesado
+*.h5
+
+# Otros
+__pycache__/
+*.pyc
+node_modules/
+.env
+dist/
