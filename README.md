@@ -3,6 +3,7 @@ Este proyecto es un sistema web que detecta si una imagen contiene un gato o no,
 -TensorFlow (modelo entrenado)
 -Flask (API backend)
 -React (frontend)
+-Dataset tomado de `https://www.kaggle.com/c/dogs-vs-cats/data`
 
 ## Cómo usar
 1. Cloná el repositorio en `https://github.com/ValentinoVerdi/reconocimiento-gatos`
